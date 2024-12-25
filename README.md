@@ -19,10 +19,10 @@ The files and scripts provided here are shared as-is, without any guarantees. Th
 &nbsp;
 
 ## Evil Portal Resources:
-### [Templates](Templates/)
+### [Templates](Evil Portals/)
 ### [Custom Scripts](CustomScripts/)
 ### [Payloads](Payloads/)
-### [Documentation](Documentation/)
+### [Documentation](README.md/)
 
 &nbsp;
 
