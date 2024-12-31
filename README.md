@@ -1,6 +1,6 @@
 # Evil Portal repository
 
-<img src="http://bobhinio.pl/assets/evilportal.webp" width="280" />
+<img src="http://bobhinio.pl/ForGithub/evilportal.webp" width="280" />
 
 This repository contains resources and code for setting up and customizing an Evil Portal for penetration testing and cybersecurity research. Use it responsibly.
 
